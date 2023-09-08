@@ -1,1 +1,1 @@
-# Fizzbuzz
+# Simple FizzBuzz challage
